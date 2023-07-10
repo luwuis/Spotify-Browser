@@ -1,0 +1,26 @@
+body {
+	background-color: #000;
+	color: var(--bs-light);
+	font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	font-weight: 900;
+}
+
+h2, h3 {
+	font-weight: 700;
+}
+
+button, .btn {
+	margin: 10px;
+	border-radius: 20px;
+}
+button, .btn:hover {
+	background-color: #00D100;
+	color: white;
+}
+
+a {
+	color: #00D100;
+}
